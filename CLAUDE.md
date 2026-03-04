@@ -1,5 +1,9 @@
 # Conventions
 
+## Development
+
+Build, run, observe output, evaluate, improve, repeat. Every change should be verified by running the code and reading its output. Use `npm run validate` before committing.
+
 ## Architecture
 
 Two concepts: functions and a runtime.
