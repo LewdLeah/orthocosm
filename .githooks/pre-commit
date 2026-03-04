@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Running validation..."
+npx tsx scripts/validate.ts
