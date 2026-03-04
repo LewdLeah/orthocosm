@@ -26,6 +26,6 @@ runLoop(
   ),
   renderSimulation(renderGrid),
   initializeGrid(createGrid, seedLoop, 80 as GridWidth, 40 as GridHeight, 5 as Row, 5 as Col),
-  500,
+  1000,
   100,
 )();
