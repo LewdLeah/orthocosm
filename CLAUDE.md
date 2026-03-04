@@ -27,6 +27,7 @@ This architecture is designed for AI agents that start every session with zero c
 - Declare things above where they are used (no hoisting)
 - camelCase for functions, files in `functions/`, `steps/`, and `runtime/`
 - PascalCase for types and files in `types/`
+- Never skip more than 1 level of indentation between 2 lines
 
 ## File Structure
 
